@@ -9,7 +9,7 @@ manifest:
       remote: zmkfirmware
       # revision: main
       # Pinning à la version 0.3, pour plus de stabilité !
-      revision: 0.3
+      revision: v0.3
       import: app/west.yml
   self:
     path: config
